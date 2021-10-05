@@ -16,6 +16,9 @@ empty( State::passion() ) ? self::rest() : self::keep_going();
 <a style="display: flex; justify-content: center" href="#">
   <img align="center" src="https://github.com/marktimemedia/my-wapuu/raw/master/png/wapuu-brainhurts.png" />
 </a>
+<a style="display: flex; justify-content: center" href="#">
+  <img align="center" src="https://github.com/marktimemedia/my-wapuu/raw/master/png/wapuu-snitch.png" />
+</a>
 <!--
 **UVLabs/UVLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
