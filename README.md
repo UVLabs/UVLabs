@@ -8,8 +8,13 @@ empty( State::passion() ) ? self::rest() : self::keep_going();
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvlabs&theme=algolia&show_icons=true&count_private=true" />
 </a>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvlabs&theme=algolia&hide=visual basic&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvlabs&theme=algolia&hide=visual%20basic&layout=compact" />
 </a>
+<br/>
+<br/>
+
+[![wakatime](https://wakatime.com/badge/user/0ca005bf-d668-4726-bcab-e3aee1a9fe82.svg)](https://wakatime.com/@0ca005bf-d668-4726-bcab-e3aee1a9fe82)
+
 <!--
 **UVLabs/UVLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
