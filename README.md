@@ -4,6 +4,8 @@ Building things out of a little island in the Caribbean called Saint Lucia 🇱�
 empty( State::passion() ) ? self::rest() : self::keep_going();
 ```
 
+<p>I do mostly WordPress development but currently learning Laravel (started January 1st 2024). See how I'm doing: https://laracasts.com/@uvdev</p>
+
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvlabs&theme=algolia&show_icons=true&count_private=true" />
 </a>
@@ -14,7 +16,7 @@ empty( State::passion() ) ? self::rest() : self::keep_going();
 <br/>
 
 [![wakatime](https://wakatime.com/badge/user/0ca005bf-d668-4726-bcab-e3aee1a9fe82.svg)](https://wakatime.com/@0ca005bf-d668-4726-bcab-e3aee1a9fe82)
-
+<p>Multiply wakatime hours by 2 for a more accurate number.</p>
 <!--
 **UVLabs/UVLabs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
