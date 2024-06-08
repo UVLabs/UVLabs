@@ -1,10 +1,8 @@
 Building things out of a little island in the Caribbean called Saint Lucia 🇱🇨
 
 ```
-empty( State::passion() ) ? self::rest() : self::keep_going();
+empty( State::passion() ) ? self::rest() : self::keepGoing();
 ```
-
-<p>I do mostly WordPress development but currently learning Laravel (started January 1st 2024). See how I'm doing: https://laracasts.com/@uvdev</p>
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvlabs&theme=algolia&show_icons=true&count_private=true" />
