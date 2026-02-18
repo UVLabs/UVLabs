@@ -11,7 +11,7 @@ empty( State::passion() ) ? self::rest() : self::keepGoing();
 </a>
 <br/>
 <a href="#">
- <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=uvlabs&layout=compact&custom_title=Wakatime%20Stats&langs_count=6&theme=highcontrast" />
+ <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=uvlabs&layout=compact&custom_title=Wakatime%20Stats+%28last%207%20days%29&langs_count=6&theme=highcontrast" />
 </a>
 
 <br/>
