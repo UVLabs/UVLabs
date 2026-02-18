@@ -3,10 +3,11 @@ Building things out of a little island in the Caribbean called Saint Lucia ðŸ‡±ð
 ```
 empty( State::passion() ) ? self::rest() : self::keepGoing();
 ```
-
 <a href="#">
-  <img align="center" src="https://github-stats-extended.vercel.app/api?username=UVLabs&rank_icon=percentile&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast" />
-   <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=UVLabs&layout=compact&langs_count=4&theme=highcontrast" />
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api?username=UVLabs&rank_icon=percentile&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast" />
+</a>
+<a href="#">
+  <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=UVLabs&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
 <br/>
 <a href="#">
