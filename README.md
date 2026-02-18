@@ -5,11 +5,15 @@ empty( State::passion() ) ? self::rest() : self::keepGoing();
 ```
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=uvlabs&theme=algolia&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api?username=UVLabs&rank_icon=percentile&custom_title=Github%20Stats&show_icons=true&include_all_commits=true&theme=highcontrast" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=uvlabs&layout=compact&custom_title=Wakatime%20Stats&langs_count=6&theme=highcontrast" />
 </a>
+<br/>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uvlabs&theme=algolia&hide=visual%20basic&layout=compact" />
+  <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=UVLabs&layout=compact&langs_count=4&theme=highcontrast" />
+  
 </a>
+
 <br/>
 <br/>
 
