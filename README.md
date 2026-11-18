@@ -10,9 +10,9 @@ empty( State::passion() ) ? self::rest() : self::keepGoing();
   <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=UVLabs&layout=compact&langs_count=8&card_width=320&theme=highcontrast" />
 </a>
 <br/>
-<a href="#">
+<!-- <a href="#">
  <img align="center" src="https://github-stats-extended.vercel.app/api/wakatime?username=uvlabs&layout=compact&custom_title=Wakatime%20Stats+%28last%207%20days%29&langs_count=6&theme=highcontrast" />
-</a>
+</a> -->
 
 <br/>
 <br/>
